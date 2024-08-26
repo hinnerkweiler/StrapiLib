@@ -3,7 +3,7 @@ using System.Text.Json.Serialization;
 using CommunityToolkit.Mvvm.ComponentModel;
 using Microsoft.Extensions.Primitives;
 
-namespace LenzLib.Model;
+namespace StrapiElements;
 
 /// <summary>
 /// The StrapiContentChild class is a single content block from the Strapi CMS that contains a list of children (StrapiContentChild) e.g. paragraphs, images, etc.

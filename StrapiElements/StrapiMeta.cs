@@ -1,10 +1,10 @@
 using System.Text.Json.Serialization;
 using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace LenzLib.Model;
+namespace StrapiElements;
 
 /// <summary>
-/// The Strapi meta Data
+/// The Strapi meta Data Element
 /// </summary>
 public partial class StrapiMeta : ObservableObject
 {

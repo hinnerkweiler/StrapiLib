@@ -1,4 +1,4 @@
-namespace LenzLib.Model;
+namespace StrapiElements;
 
 /// <summary>
 /// A Strapi image formats

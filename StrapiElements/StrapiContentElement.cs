@@ -3,7 +3,7 @@ using System.Text.Json.Serialization;
 using CommunityToolkit.Mvvm.ComponentModel;
 using Microsoft.AspNetCore.Components;
 
-namespace LenzLib.Model;
+namespace StrapiElements;
 
 /// <summary>
 /// A Strapi content element.
