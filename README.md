@@ -6,7 +6,8 @@ This project provides a set of C# classes to interact with and represent data fr
 Uses the new **Rich Text (Blocks)** field type with nested elements over multiple levels.
 
 ## Status
-This project is in the early stages of development and is considered not ready for production use. However, base classes are implemented and tested. 
+This project is derived from a private project and needs some more features and documentation. It is in early stages of development for a public release and should be considered not ready for production. 
+However, base classes are implemented and tested. 
 
 ## Dependencies
 
